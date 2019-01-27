@@ -1,6 +1,5 @@
-# azmalist
-
-> Web-SPA for Onsen's Next-gen System
+# What is this
+My starter template for nuxt.js.
 
 ## Build Setup
 
